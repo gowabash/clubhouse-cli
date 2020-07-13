@@ -58,7 +58,7 @@ typings/
 .env
 
 # Editors
-*.swp
+*.sw*
 
 # IntelliJ
 .idea/
